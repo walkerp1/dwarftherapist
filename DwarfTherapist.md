@@ -1,0 +1,1 @@
+DwarfTherapist (DT) is a companiion utility for the game [Dwarf Fortress](http://www.bay12games.com/dwarves/).
